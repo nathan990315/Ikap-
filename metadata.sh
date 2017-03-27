@@ -1,0 +1,20 @@
+CONTENTSTYLE 42.2 
+NAME         SUSE_leeap
+VERSION      42.1
+RELEASE      0
+DISTRIBUTION SUSE Linux Leap 
+DESCRDIR     
+DATADIR      suse
+LABEL        SUSE Linux 42.2 Leap
+VENDOR       SuSE Linux Products GmbH
+BASEARCHS    
+RELNOTESURL 
+META SHA1 
+META SHA1 
+...
+HASH SHA1 
+HASH SHA1 
+...
+KEY SHA1  
+KEY SHA1  
+ 
